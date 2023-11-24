@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+    background: linear-gradient(300deg, #04a622, #000000);
+    background-size: 180% 180%;
+    animation: gradient-animation 5s ease infinite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
